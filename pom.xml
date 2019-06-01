@@ -15,7 +15,6 @@
 	<modules>
 		<module>handler-service</module>
 		<module>handler-common</module>
-		<module>hanlder-core</module>
 	</modules>
 	
 	<properties>
